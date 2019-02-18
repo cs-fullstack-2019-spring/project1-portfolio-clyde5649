@@ -1,0 +1,37 @@
+
+/* the styling for my page*/
+ul{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    overflow: hidden;
+    background: grey;
+}
+
+li
+{
+    float: left;
+}
+
+li a
+{
+    display: block;
+    padding: 10px 16px;
+    text-align: center;
+
+
+}
+
+li a:hover{
+    background: red;
+    color: white;
+}
+
+body
+{
+    background: gray;
+    text-align: center;
+    background-image: url("Quotefancy-1700728-3840x2160.jpg");
+    background-size: 100%;
+
+}

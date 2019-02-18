@@ -1,0 +1,40 @@
+
+/* styling even though i use a iframe for my page so the styling is not really needed but for the header*/
+body
+{
+    background: gray;
+    display: grid;
+}
+
+#5nav
+{
+    color: red;
+}
+
+ul{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    overflow: hidden;
+    background: gray;
+}
+
+li
+{
+    float: left;
+}
+
+li a
+{
+    display: block;
+    padding: 10px 16px;
+    text-align: center;
+
+
+}
+
+li a:hover{
+    background: red;
+    color: white;
+}
+

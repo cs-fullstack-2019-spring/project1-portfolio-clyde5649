@@ -1,0 +1,57 @@
+
+/* my styling for my page and my header*/
+
+body
+{
+    background: gray;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.container {
+    text-align: center;
+    position: relative;
+    line-height: 8em;
+
+}
+
+ul{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    overflow: hidden;
+    background: grey;
+}
+
+li
+{
+    float: left;
+}
+
+li a
+{
+    display: block;
+    padding: 10px 16px;
+    text-align: center;
+
+
+}
+
+li a{
+    background:
+    color(white);
+}
+
+
+.coding{
+    text-align: center;
+    display: inline-grid;
+}
+
+p
+{
+    text-align: center;
+
+
+}

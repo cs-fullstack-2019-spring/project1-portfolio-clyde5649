@@ -1,0 +1,34 @@
+/* my styling for my header and page */
+
+ul{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    overflow: hidden;
+    background: gray;
+}
+
+li
+{
+    float: left;
+}
+
+li a
+{
+    display: block;
+    padding: 10px 16px;
+    text-align: center;
+
+
+}
+
+li a:hover{
+    background: red;
+    color: white;
+}
+
+body
+{
+    background: grey;
+}
+
